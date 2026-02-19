@@ -1,3 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import "tailwindcss";
+
+
+
+
+html,body {
+  background-image: linear-gradient(to right, #2563eb, #1d4ed8, #7c3aed);
+  overflow: hidden;
+}
